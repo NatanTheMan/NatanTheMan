@@ -3,7 +3,7 @@
 ### Backend Developer · Go & Typescript
 
 <p align="left">
-  <a href="https://github.com/logan-dev-x">
+  <a href="https://github.com/NatanTheMan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/nataniel-dos-santos-costa-1239182">
@@ -49,7 +49,7 @@ Currently focused on **Go and Typescript**, while deepening my knowledge of soft
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=logan-dev-x&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NatanTheMan&theme=github-dark-blue&hide_border=true"
     alt="GitHub contribution streak"
   />
 </p>
